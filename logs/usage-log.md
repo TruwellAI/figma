@@ -9,3 +9,4 @@
 | 2026-05-23 | v0 / Vercel | Vercel token stored locally in `.secrets/vercel.env`; `/v2/user` verification successful | Vercel API connected; no secrets committed | v0/Vercel workflow ready for 30-day trial |
 | 2026-05-23 | Vercel/v0 | Stored Vercel user ID from account settings and API-discovered team ID/slug locally in `.secrets/vercel.env` | User/team identifiers configured; no secrets committed | Vercel targeting clarified for future deploys |
 | 2026-05-23 | FAL API | FAL key stored locally in `.secrets/fal.env`; added 30-day FAL trial tracker | API-first creative engine setup started | Ready to test image/video/3D model workflows |
+| 2026-05-23 | FAL API | Neil bought $20 prepaid credits; no monthly plan/auto top-up | Capped trial funded | Ready for controlled creative testing |
