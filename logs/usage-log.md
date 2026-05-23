@@ -6,3 +6,4 @@
 | 2026-05-23 | Figma API | Personal access token stored locally in `.secrets/figma.env`; verified `/v1/me` returns Neil Atkinson | API connection verified; no secrets committed | Figma is now usable via API from Friday/OpenClaw |
 | 2026-05-23 | Builder.io / Fusion | Builder credential received from Neil and stored locally in `.secrets/builder.env`; selected Convert Figma to Code → Developer → Next.js onboarding path | Credential stored; no secrets committed | Builder trial/integration setup started |
 | 2026-05-23 | Builder.io / Fusion | Builder private Admin API key stored locally in `.secrets/builder.env`; admin endpoint verification attempted | Private key stored; no secrets committed | Builder automation access upgraded from public-only |
+| 2026-05-23 | v0 / Vercel | Vercel token stored locally in `.secrets/vercel.env`; `/v2/user` verification successful | Vercel API connected; no secrets committed | v0/Vercel workflow ready for 30-day trial |
