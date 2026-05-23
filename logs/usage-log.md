@@ -10,3 +10,4 @@
 | 2026-05-23 | Vercel/v0 | Stored Vercel user ID from account settings and API-discovered team ID/slug locally in `.secrets/vercel.env` | User/team identifiers configured; no secrets committed | Vercel targeting clarified for future deploys |
 | 2026-05-23 | FAL API | FAL key stored locally in `.secrets/fal.env`; added 30-day FAL trial tracker | API-first creative engine setup started | Ready to test image/video/3D model workflows |
 | 2026-05-23 | FAL API | Neil bought $20 prepaid credits; no monthly plan/auto top-up | Capped trial funded | Ready for controlled creative testing |
+| 2026-05-23 | ElevenLabs | Existing ElevenLabs API key stored locally in `.secrets/elevenlabs.env` and verified | Voice/audio layer connected; no secrets committed | Ready for UGC voiceovers, app walkthroughs, and story ads |
