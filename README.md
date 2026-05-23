@@ -27,3 +27,11 @@ Every tool we add follows the same standard:
 - Useful design-to-code handoff
 - Reusable NZ Agency design systems
 - Practical GitHub/OpenClaw integration
+
+## Current connection status
+
+- GitHub repo: connected
+- Figma API token: stored locally in `.secrets/figma.env` outside git
+- Figma API verification: `/v1/me` successful for Neil Atkinson on 2026-05-23
+- Secrets policy: no tokens committed to GitHub
+
